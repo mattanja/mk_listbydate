@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_mklistbydate_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="listFieldHeader_text">Text</label>
+			<label index="listFieldHeader_weekdays">Weekday(s)</label>
+			<label index="listFieldHeader_occurrence">Occurrence of week</label>
+			<label index="listFieldHeader_dayofmonth">Day of month</label>
+			<label index="list_mode_1">Mode 1</label>
+			<label index="list_mode_2">Mode 2</label>
+			<label index="list_mode_3">Mode 3</label>
+			<label index="back">Back</label>
+			<label index="pi_list_browseresults_prev">&lt; Previous</label>
+			<label index="pi_list_browseresults_page">Page</label>
+			<label index="pi_list_browseresults_next">Next &gt;</label>
+			<label index="pi_list_browseresults_displays">Displaying results ###SPAN_BEGIN###%s to %s&lt;/span&gt; out of ###SPAN_BEGIN###%s&lt;/span&gt;</label>
+			<label index="pi_list_searchBox_search">Search</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.0">Monday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.1">Tuesday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.2">Wednesday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.3">Thursday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.4">Friday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.5">Saturday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.6">Sunday</label>
+			<label index="tx_mklistbydate_entries.weekdays">Weekday(s)</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.0">First week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.1">Second week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.2">Third week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.3">Fourth week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.4">Last week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence">Occurrence of week</label>
+			<label index="tx_mklistbydate_entries.dayofmonth">Day of month</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_mklistbydate_entries.weekdays.I.0">Montag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.1">Dienstag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.2">Mittwoch</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.3">Donnerstag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.4">Freitag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.5">Samstag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.6">Sonntag</label>
+			<label index="tx_mklistbydate_entries.weekdays">Wochentage</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.0">Erste Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.1">Zweite Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.2">Dritte Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.3">Vierte Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.4">Letzte Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence">x-te Woche des Monats</label>
+			<label index="tx_mklistbydate_entries.dayofmonth">Tag im Monat</label>
+		</languageKey>
+	</data>
+</T3locallang>

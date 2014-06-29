@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'mk_listbydate'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_mklistbydate_entries">List by date Entries</label>
+			<label index="tx_mklistbydate_entries.text">Text</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.0">Monday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.1">Tuesday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.2">Wednesday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.3">Thursday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.4">Friday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.5">Saturday</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.6">Sunday</label>
+			<label index="tx_mklistbydate_entries.weekdays">Weekday(s)</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.0">First week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.1">Second week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.2">Third week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.3">Fourth week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.4">Last week of month</label>
+			<label index="tx_mklistbydate_entries.occurrence">Occurrence of week</label>
+			<label index="tx_mklistbydate_entries.dayofmonth">Day of month</label>
+			<label index="tt_content.list_type_pi1">List by date</label>
+			<label index="tt_content.pi_flexform.sheet_general">General</label>
+			<label index="tt_content.pi_flexform.field_displayType.I.0">Simple list</label>
+			<label index="tt_content.pi_flexform.field_displayType.I.1">Monthly list</label>
+			<label index="tt_content.pi_flexform.field_displayType.I.2">Weekly list</label>
+			<label index="tt_content.pi_flexform.field_displayType.I.3">All entries</label>
+			<label index="tt_content.pi_flexform.field_displayType">Display type</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_mklistbydate_entries.weekdays.I.0">Montag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.1">Dienstag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.2">Mittwoch</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.3">Donnerstag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.4">Freitag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.5">Samstag</label>
+			<label index="tx_mklistbydate_entries.weekdays.I.6">Sonntag</label>
+			<label index="tx_mklistbydate_entries.weekdays">Wochentage</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.0">Erste Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.1">Zweite Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.2">Dritte Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.3">Vierte Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence.I.4">Letzte Woche</label>
+			<label index="tx_mklistbydate_entries.occurrence">x-te Woche des Monats</label>
+			<label index="tx_mklistbydate_entries.dayofmonth">Tag im Monat</label>
+		</languageKey>
+	</data>
+</T3locallang>
