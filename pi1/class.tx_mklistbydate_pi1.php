@@ -27,8 +27,8 @@
  * Hint: use extdeveval to insert/update function index above.
  */
 
-require_once(PATH_tslib.'class.tslib_pibase.php');
-
+// Fix for TYPO3 >6.2 https://forge.typo3.org/issues/54144
+if (!class_exists('tslib_pibase')) require_once(PATH_tslib . 'class.tslib_pibase.php');
 
 /**
  * Plugin 'List by date' for the 'mk_listbydate' extension.
